@@ -2,6 +2,14 @@
 
 This project implements a program to convert numbers from one numeral system to another, as described in `Programming-Assignment-1.pdf`.
 
+## Project Description
+This project is part of the "Advanced Programming Techniques" course and focuses on implementing various numeral system conversions.
+
+## Requirements
+
+- **C++ Compiler:** Ensure `g++` is installed.
+- **Python 3:** Required for running the test scripts.
+
 ## Instructions
 
 ### 1. Compile the Program
@@ -29,15 +37,12 @@ All test cases passed successfully:
 - `instructor_tests1.py`: ✅
 - `instructor_tests2.py`: ✅
 
-## Files in this Repository
+## Files Included
 
-- `program1.cc`: Source code for the program.
-- `instructor_tests1.py`: Test script for validating conversion cases.
-- `instructor_tests2.py`: Additional test script for edge cases.
-- `Programming-Assignment-1.pdf`: Detailed project description.
-- `Numeration-Systems.pdf`: Reference material on numeral systems.
-
-## Requirements
-
-- **C++ Compiler:** Ensure `g++` is installed.
-- **Python 3:** Required for running the test scripts.
+- **Numeration-Systems.pdf**: Documentation explaining the numeration systems used in the project.
+- **Programming-Assignment-1.pdf**: Assignment instructions and problem statement.
+- **program1.cc**: Source code for the program.
+- **instructor_tests1.py**: Python script containing test cases for numeration system conversions.
+- **instructor_tests2.py**: Additional test cases provided for testing advanced scenarios.
+- **test_to_decimal.py**: Core implementation for converting numeration systems to decimal.
+```
